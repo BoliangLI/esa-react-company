@@ -48,7 +48,7 @@ export default function App() {
             className="flex items-center gap-2.5 text-2xl font-bold tracking-tight"
           >
             <Box className="text-indigo-600" size={29} />
-            nexus<span className="text-indigo-600">.</span>
+            ESA Pages
           </a>
           <nav
             aria-label="主导航"
@@ -123,7 +123,7 @@ export default function App() {
                 </span>
               </h1>
               <p className="mt-7 max-w-lg text-base leading-8 text-slate-500">
-                Nexus 为富有远见的团队构建现代数字基础设施。
+                ESA Pages 为富有远见的团队构建现代数字基础设施。
                 <br className="hidden sm:block" />
                 连接创意与技术，让你的业务从容迈向全球。
               </p>
@@ -158,7 +158,7 @@ export default function App() {
                 <div className="mb-7 flex items-center justify-between border-b border-slate-100 pb-4">
                   <span className="flex items-center gap-2 text-sm font-semibold">
                     <Network size={17} className="text-indigo-600" />
-                    Nexus Edge Network
+                    ESA Pages Edge Network
                   </span>
                   <span className="flex items-center gap-1.5 text-[10px] text-emerald-600">
                     <span className="size-1.5 rounded-full bg-emerald-500" />
@@ -286,7 +286,7 @@ export default function App() {
                 找到更好的答案。
               </h2>
               <p className="mt-5 text-sm leading-7 text-slate-400">
-                无论是下一代 SaaS、内容平台，还是全球电商，Nexus
+                无论是下一代 SaaS、内容平台，还是全球电商，ESA Pages
                 都让你的团队轻装上阵。
               </p>
               <button
@@ -339,8 +339,8 @@ export default function App() {
       </main>
       <footer className="border-t border-slate-200 bg-white">
         <div className="mx-auto flex max-w-7xl flex-wrap justify-between gap-6 px-6 py-9 text-xs text-slate-400 lg:px-12">
-          <span className="text-lg font-semibold text-slate-800">nexus.</span>
-          <p>© 2026 Nexus · 企业官网演示模板</p>
+          <span className="text-lg font-semibold text-slate-800">ESA Pages</span>
+          <p>© 2026 ESA Pages · 企业官网演示模板</p>
           <a href="mailto:hello@example.com" className="hover:text-indigo-600">
             hello@example.com ↗
           </a>
